@@ -16,6 +16,7 @@ limitations under the License.
 #ifndef WAYMO_OPEN_DATASET_METRICS_MATCHER_H_
 #define WAYMO_OPEN_DATASET_METRICS_MATCHER_H_
 
+#include <cmath>
 #include <math.h>
 
 #include <memory>
